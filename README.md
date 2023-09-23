@@ -55,3 +55,20 @@ The goal of this project is to create a VPC that is secure, scalable, and resili
 
 This project is a good starting point for anyone who is new to AWS VPCs, or who wants to learn more about how to set up a VPC for production workloads.
 
+
+OutPut:
+![p1](https://github.com/praatikgote/AWS-Production-VPC-Public-Private-Subnet/assets/74818044/90c75556-6622-4e53-9462-41230595bf6c)
+
+![p2](https://github.com/praatikgote/AWS-Production-VPC-Public-Private-Subnet/assets/74818044/233f9ab8-4dde-4b6f-a0e3-2e466fe004ec)
+
+![p3](https://github.com/praatikgote/AWS-Production-VPC-Public-Private-Subnet/assets/74818044/40afba5f-f07c-457e-8168-8039042ee5c0)
+
+
+connect me:
+Mail: pratikgote69@gmail.com
+
+linkedin.com: https://www.linkedin.com/in/pratik-gote-516b361b3/
+
+github.com: https://github.com/praatikgote
+
+
